@@ -3,7 +3,7 @@ server rendering with babel
 
 This is a demo application which describes how server rendering with hyration at client could be done efficiently.
 
-# how to use 
+# How to use 
 1. git clone repo
 2. run npm install
 3. run server:start
